@@ -1,2 +1,0 @@
-# Keep shell scripts on LF line endings so they run on Linux/WSL even if edited on Windows
-*.sh text eol=lf
